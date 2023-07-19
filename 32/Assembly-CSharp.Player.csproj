@@ -59,6 +59,8 @@
     <Compile Include="Assets\scripts\MainMenuController.cs" />
     <Compile Include="Assets\scripts\ObjectController.cs" />
     <Compile Include="Assets\scripts\ScoreScript.cs" />
+    <Compile Include="Assets\scripts\gameobj.cs" />
+    <Compile Include="Assets\scripts\level2controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
